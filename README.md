@@ -1,1 +1,1 @@
-# blinkit-all-store-
+# blinkit-app-store-
